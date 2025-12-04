@@ -1,0 +1,33 @@
+{
+  "name": "colorhex",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.1.0",
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.1",
+    "bootstrap": "^5.3.8",
+    "next": "16.0.7",
+    "react": "19.2.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "19.2.0",
+    "recharts": "^3.5.1",
+    "tinycolor2": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/tinycolor2": "^1.4.6",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.7",
+    "typescript": "^5"
+  }
+}
